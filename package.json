@@ -2,8 +2,8 @@
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
-  "source": "src/index.html",
   "homepage": "https://markson17.github.io/portfolio",
+  "source": "src/index.html",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
